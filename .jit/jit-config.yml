@@ -1,0 +1,7 @@
+applications:
+- api_domain: 1forge.com
+  application_name: Test
+  authentication_mode: non-authenticated
+  exclude_paths: []
+  target_url: https://api.apis.guru/v2/specs/1forge.com/0.0.1/swagger.yaml
+  type: api
